@@ -2,9 +2,3 @@ create a branch -> git branch branchName
 move to branch -> git checkout branchName
 
 create and move to branch -> git checkout -b branchName
-
-Linus Torvalds -> creator of Linux
-built Git and went back to creating Linux
-
-Isaac Newton -> gravitational model
-Calculus -> Differential and Integral calculus
